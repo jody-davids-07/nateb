@@ -1,0 +1,171 @@
+#top-footer{
+    line-height: 1.83;
+    letter-spacing: 2.4px;
+    text-align: center;
+    color: #999999;
+    margin:0px;
+    padding:0px;
+    border-color: transparent;
+    width: 100%;
+    /* height: 53px; */
+    background-color:rgb(238, 238, 238);
+}
+.footer{
+    background-color: black;
+}
+/* nav bar style */
+.nav{
+    padding-left: 90px;
+}
+#navbar{
+	/* padding-left: 30px; */
+	display: inline;
+}
+#navbar a{
+	text-decoration: none;
+	color: black;
+	display: inline;
+    padding-left: 50px;
+    text-align: center;
+}
+.home {
+	width: 36px;
+	height: 11px;
+	font-family: Dosis;
+	font-size: 15px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.75px;
+	text-align: left;
+	padding-left: 20px;
+	color: #999999;
+  }
+  
+  .shop {
+	width: 34px;
+	height: 11px;
+	font-family: Dosis;
+	font-size: 15px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.75px;
+	text-align: left;
+	color: #999999;
+  }
+  
+  .about {
+	width: 44px;
+	height: 11px;
+	font-family: Dosis;
+	font-size: 15px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.75px;
+	text-align: left;
+	color: #999999;
+  }
+  .logo{
+	width: 117px;
+	height: 21px;
+	font-family: Dosis;
+	font-size: 30px;
+	font-weight: 600;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 1.5px;
+	text-align: left;
+	
+  }
+  
+  .blog {
+	width: 32px;
+	height: 11px;
+	font-family: Dosis;
+	font-size: 15px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.75px;
+	text-align: left;
+	color: #999999;
+  }
+  
+  .contact{
+	width: 66px;
+	height: 11px;
+	font-family: Dosis;
+	font-size: 15px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.75px;
+	text-align: left;
+	color: #999999;
+  }
+  
+  .lookbook{
+	width: 77px;
+	height: 11px;
+	font-family: Dosis;
+	font-size: 15px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.75px;
+    text-align: left;
+    color: #999999;
+
+  }
+/* styling my image of my shop pages */
+#chains1{
+    height:500px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+#chains2{
+     height:500px;
+     padding-top:20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+     
+}
+#chains3{
+     height: 500px;
+     padding-top:20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+
+.row1{
+    background-color: #999999;
+}
+#shopbook ul{
+    padding-top: 150px;
+}
+#shopbook{
+    margin-top: 40px;
+    /* margin-left: 200px;
+    margin-right: 200px; */
+    background-color: #3333;
+}
+#shopbook3{
+    margin-top: 40px;
+    /* padding-left: 200px; */
+    padding-right: 200px;
+    background-color: #3333;
+}
+.line{
+    padding-bottom: 20px;
+    text-align: center;
+}
