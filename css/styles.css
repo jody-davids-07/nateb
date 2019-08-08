@@ -1,0 +1,285 @@
+.pre-header {
+	
+	padding-top: 15px;
+	padding-bottom: 15px; 
+	width: 100%;
+    height: 53px;
+	background-color: black;
+	  
+}
+.pre-header .container {
+	display: flex;
+}
+/* nav bar style */
+#navbar{
+	
+	display: inline;
+	
+}
+#navbar a{
+	text-decoration: none;
+	color: white;
+	display: inline;
+	padding-left: 50px;
+}
+.home {
+	width: 36px;
+	height: 11px;
+	font-family: Dosis;
+	font-size: 15px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.75px;
+	text-align: left;
+	padding-left: 20px;
+	color: white;
+	
+  }
+  
+  .shop {
+	width: 34px;
+	height: 11px;
+	font-family: Dosis;
+	font-size: 15px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.75px;
+	text-align: left;
+	color: white;
+	
+  }
+  
+  .about {
+	width: 44px;
+	height: 11px;
+	font-family: Dosis;
+	font-size: 15px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.75px;
+	text-align: left;
+	color: white;
+	
+  }
+  .logo{
+	width: 117px;
+	height: 21px;
+	font-family: Dosis;
+	font-size: 30px;
+	font-weight: 600;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 1.5px;
+	text-align: left;
+	
+  }
+  
+  .blog {
+	width: 32px;
+	height: 11px;
+	font-family: Dosis;
+	font-size: 15px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.75px;
+	text-align: left;
+	color: white;
+	
+  }
+  
+  .contact{
+	width: 66px;
+	height: 11px;
+	font-family: Dosis;
+	font-size: 15px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.75px;
+	text-align: left;
+	color: white;
+	
+  }
+  
+  .lookbook{
+	width: 77px;
+	height: 11px;
+	font-family: Dosis;
+	font-size: 15px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 0.75px;
+	text-align: left;
+	color: white;
+
+  }
+/* containers stylying that are for the icons */
+/* .section-one {
+	min-height: 100vh;
+	background-image: url(../img/fashion\ 2.jpeg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	text-align: center;
+	display: inline-block;
+	
+} */
+.section-two {
+	min-height: 85vh;
+	background-color: #ffffff;
+	
+}
+.pre-header .container .container-icons {
+	width: 50%;
+}
+#big{
+	width: 90%;
+  height: 9px;
+  font-family: SourceSansPro;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.83;
+  letter-spacing: 2.4px;
+  text-align: center;
+  color: #ffffff;
+}
+.money{
+	width: 35%
+}
+.container1{
+	position: relative;
+	text-align: center;
+	background-image: url("https://atgbcentral.com/data/out/43/4279488-skull-pic.jpg");
+	width: 100%;
+  }
+  .container2{
+	position: relative;
+	text-align: center;
+	padding-top: 50px;
+  }
+  .section-three{
+	  background-color: #333333;
+  }
+/* started styling my icons */
+.en  {
+	width: 13px;
+	height: 9px;
+	font-family: SourceSansPro;
+	font-size: 12px;
+	font-weight: 300;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #ffffff;
+  }
+  
+  .icon1{
+	width: 7px;
+	height: 5px;
+	font-family: FontAwesome;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #ffffff;
+  }
+  .zar {
+	width: 21px;
+	height: 9px;
+	font-family: SourceSansPro;
+	font-size: 12px;
+	font-weight: 300;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #ffffff;
+  }
+  .socials{
+	    width: 35%;
+		height: 15px;
+		font-family: FontAwesome;
+		font-size: 15px;
+		font-weight: normal;
+		font-style: normal;
+		font-stretch: normal;
+		line-height: normal;
+		letter-spacing: normal;
+		text-align: center;
+		color: #ffffff;
+		
+	}
+	.cart{
+		color: #ffffff;
+	}
+
+
+
+.search{
+	width: 22px;
+	height: 23px;
+	font-family: Linearicons-Free;
+	font-size: 22px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: normal;
+	letter-spacing: 1.1px;
+	text-align: left;
+}
+
+/* styling the sections */
+.intro{
+display: inline-block;
+color: white;
+}
+.description{
+	
+	height: 38px;
+	font-family: Dosis;
+	font-size: 50px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 0.96;
+	letter-spacing: normal;
+	text-align: center;
+	margin-bottom: 25%;
+	margin-top: 20%;
+		
+	  
+}
+.purpose{
+  /* width: 924px; */
+  height: 108px;
+  font-family: SourceSansPro;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: center;
+  padding-bottom: 100px;
+  color: white;
+  /* margin-left: 200px; */
+	  
+}
