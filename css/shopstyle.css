@@ -169,3 +169,28 @@
     padding-bottom: 20px;
     text-align: center;
 }
+/* styling of the rings/earrings in the shop page */
+#ring1{
+    height:500px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+#ring2{
+    height:500px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+#earrings1{
+    height:500px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+#earrings2{
+    height:500px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
