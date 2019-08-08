@@ -194,3 +194,32 @@
     padding-bottom: 20px;
     margin-left: 20px;
 }
+/* styling of the wristwear in the shop page */
+#wristwear1{
+    height:500px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+#wristwear2{
+    height:500px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+#wristwear3{
+    height:500px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+#wristwear4{
+    height:500px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+.cart{
+	padding-left: 60px;
+
+}
